@@ -1,0 +1,110 @@
+table{width: 100%;
+    height: 945px;
+    
+    font-size: x-small;
+ }
+
+.elemento {border: solid 1px;
+border-color: aliceblue;
+}
+.elemento1 {background-color: darksalmon;
+}
+.elemento1{border: solid 1px;
+    border-color: aliceblue;
+}
+.elemento2 {border: solid 1px;
+    border-color: aliceblue;
+}
+.elemento2{background-color: gold;
+}
+.elemento3 {border: solid 1px;
+    border-color: aliceblue;
+    background-color: aliceblue;
+}
+.elemento3{background-color: blueviolet;
+}
+body{text-align: center;}
+p{
+    margin: 0;
+    
+
+}
+td{width: 4.5%;
+height: 8.3;
+}
+.elemento4 {border: solid 1px;
+background-color: aliceblue;
+}
+.elemento4{background-color: dodgerblue;
+border-color: aliceblue;
+}
+.elemento{
+    background-color: lightgreen;
+}
+.elemento5{border-color: aliceblue;
+    color: aliceblue;
+    background-color: black;
+}
+.elemento6{border-color: aliceblue;
+    width: auto;
+}
+body{
+    font-weight: bold;
+    background-color: black;
+    
+}
+.elemento7{
+    color: aliceblue;
+}
+.elemento9{
+    text-align: left;
+}
+.elemento:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento1:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento2:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento3:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento4:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento5:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}.elemento6:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento7:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento8:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
+.elemento9:hover{
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.5);
+}
